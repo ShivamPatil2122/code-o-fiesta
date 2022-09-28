@@ -22,7 +22,7 @@
     align-items: center;
 }
 .logo {
-    width: 80px;
+    width: 200px;
     margin-top: 10px;
     cursor: pointer;
 }
@@ -45,6 +45,7 @@ nav ul li a {
 }
 #btn1 {
     text-transform: uppercase;
+    align-self: right;
     background: linear-gradient(to bottom, #fafafa 3%, #ffffff 100%);
     border-radius: 30px;
     border: 1px solid #000000;
